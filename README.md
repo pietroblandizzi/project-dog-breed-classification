@@ -12,7 +12,7 @@ matplotlib
 pytorch
 torchvision
 
-# How to run
+## How to run
 
 The ipython contains the full code including architecture train and evauation proceudes as they came from Udacity.
 In the **model_scratch.pt** and **model_transfer.pt** i provided my pre_trained model to be used.
